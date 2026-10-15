@@ -85,20 +85,42 @@
 
 <img src="./assets/stats.svg" alt="Stats" width="100%"/>
 
+<br/>
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yoonesZi82-181717?style=for-the-badge&logo=github)](https://github.com/yoonesZi82)
-[![Portfolio](https://img.shields.io/badge/Portfolio-yoones--web.ir-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoones-web.ir)
-[![Email](https://img.shields.io/badge/Email-yoones.dev@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoones.dev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yooneszi82)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yoones_zamani_)
+<a href="https://github.com/yoonesZi82"><img src="https://img.shields.io/badge/GitHub-yoonesZi82-0a1226?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://yoones-web.ir"><img src="https://img.shields.io/badge/Portfolio-Website-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="mailto:yoones.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://discord.gg/yooneszi82"><img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://instagram.com/yoones_zamani_"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=yoonesZi82&theme=tokyonight&hide_border=true&bg_color=0a1226&show_icons=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoonesZi82&theme=tokyonight&hide_border=true&background=0a1226" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonesZi82&theme=tokyonight&hide_border=true&bg_color=0a1226&layout=compact&include_all_commits=true" height="165"/>
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yoonesZi82&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=yoonesZi82&icon=2&color=1)](https://visitcount.itsvg.in)
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=yoonesZi82&theme=tokyonight&hide_border=true&bg_color=0a1226&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
+    </td>
+    <td align="center" valign="top">
+      <img src="https://streak-stats.demolab.com?user=yoonesZi82&theme=tokyonight&hide_border=true&background=0A1226&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="180"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonesZi82&theme=tokyonight&hide_border=true&bg_color=0a1226&layout=compact&include_all_commits=true&langs_count=6" alt="Top Languages" height="180"/>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yoonesZi82&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=yoonesZi82&style=for-the-badge&color=0a1226&label=Profile+Views" alt="Profile views"/>
 
 </div>
