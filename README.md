@@ -117,7 +117,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yoonesZi82&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote"/>
 
 <br/>
 
