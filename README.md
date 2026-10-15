@@ -1,28 +1,78 @@
-# 💫 About Me:
-I am Younes Zamani, born in 2003. I love programming and I work in various fields, but my main activity is front-end. I have been coding continuously for almost a year now and I am learning and updating myself. The top things I know are NextJS and React, and I know a lot about JavaScript, and I can help you a lot in building your sites and projects.
+<div align="center">
 
+<img src="./assets/header.png" alt="Yoones — Developer" width="100%"/>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/yooneszi82) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoones_zamani_) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/yooneszamani80820733) 
+</div>
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yoonesZi82&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yoonesZi82&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonesZi82&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<table>
+<tr>
+<td width="46%" valign="top"><img src="./assets/about.png" alt="About Me" width="100%"/></td>
+<td width="54%" valign="top">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yoonesZi82&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+### 💻 Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux&theme=dark" /><br/>
+![Zustand](https://img.shields.io/badge/Zustand-1a1a1a?style=flat-square)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Mantine](https://img.shields.io/badge/Mantine-339af0?style=flat-square&logo=mantine&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat-square)
+![Styled Components](https://img.shields.io/badge/Styled%20Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat-square&logo=chartdotjs&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yoonesZi82&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,python,socketio&theme=dark" /><br/>
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=flat-square&logo=apollographql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
 
----
+**Database**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma&theme=dark" /><br/>
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=neon&logoColor=black)
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vercel,npm,yarn,eslint&theme=dark" /><br/>
+![PNPM](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+![Nx](https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center" width="20%"><b>🖥️ Web Applications</b><br/><sub>Scalable, high-performance apps with React, Next.js and Node.js</sub></td>
+<td align="center" width="20%"><b>⚡ Real-time Systems</b><br/><sub>WebSockets, live data and real-time communication</sub></td>
+<td align="center" width="20%"><b>🍽️ Restaurant Management</b><br/><sub>Panels, monitoring, VoIP and large monorepos</sub></td>
+<td align="center" width="20%"><b>🌐 International Products</b><br/><sub>Multi-tenant systems, roles/permissions, payments</sub></td>
+<td align="center" width="20%"><b>🤝 Freelance & Remote</b><br/><sub>Working remotely with great teams worldwide</sub></td>
+</tr>
+</table>
+
+<img src="./assets/stats.png" alt="Stats" width="100%"/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-yoonesZi82-181717?style=for-the-badge&logo=github)](https://github.com/yoonesZi82)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yoones--web.ir-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://yoones-web.ir)
+[![Email](https://img.shields.io/badge/Email-yoones.dev@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoones.dev@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yooneszi82)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yoones_zamani_)
+
+<img src="https://github-readme-stats.vercel.app/api?username=yoonesZi82&theme=tokyonight&hide_border=true&bg_color=0a1226&show_icons=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yoonesZi82&theme=tokyonight&hide_border=true&background=0a1226" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoonesZi82&theme=tokyonight&hide_border=true&bg_color=0a1226&layout=compact&include_all_commits=true" height="165"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yoonesZi82&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+
 [![](https://visitcount.itsvg.in/api?id=yoonesZi82&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
